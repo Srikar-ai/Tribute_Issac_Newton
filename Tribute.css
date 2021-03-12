@@ -18,13 +18,13 @@ body{
 	background-color:black;
 	
 }
-details {
+.details {
 	font-style:italic;
 	font-size:25px;
 	color:#ffffff;
-	margin:50px;
+
 }
-summary{
+.summary{
 	background-color:#8fa9a9;
 	font-style:normal;
 	color:#ffffff;
@@ -35,11 +35,10 @@ h2{
 	font-size:35px;
 	margin:0;
 	background-color:#8fa9a9;
-	width:100%px;
 	color:#ffffff;
 }
 section{
-	display:inline-block;
+	/*display:inline-block;*/
 }
 ol{
 	list-style-type:upper-roman;
@@ -69,6 +68,7 @@ pre{
 	font-size:25px;
 	padding-right:50px;
 	color:#ffffff;
+	
 
 }
 p{
@@ -97,6 +97,4 @@ li:hover{
  	background-color:black;
  	border:2px solid white;
  }
-
-
 
